@@ -1,0 +1,27 @@
+{
+  "name": "game-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.7.8",
+    "request": "^2.83.0"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanrains/game-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanrains/game-app/issues"
+  },
+  "homepage": "https://github.com/jordanrains/game-app#readme",
+  "devDependencies": {
+    "uuid": "^3.1.0",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
